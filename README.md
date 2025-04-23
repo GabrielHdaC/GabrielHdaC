@@ -39,11 +39,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielHdaC&show_icons=true&theme=default" alt="GitHub Stats"/>
 </div>
-
----
-
-## 📫 Como Me Encontrar  
-<div align="center">
-  <a href="mailto:gabrielhcunha2006@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/gabrielhcunha">🔗 LinkedIn</a>
-</div>
