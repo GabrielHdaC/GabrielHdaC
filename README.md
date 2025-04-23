@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQF3Tq8wmPtJjQ/profile-displayphoto-shrink_800_800/B4DZRBBgAzHYAc-/0/1736257700780?e=1750896000&v=beta&t=9YTgJHePZz6Us8sdrjaNuOsEof5FzZpxHWKtR6zeSdw" width="150" alt="Foto de Gabriel Heron"/>
   <h1>Olá, eu sou Gabriel Heron 👋</h1>
-  <p>ENVOLTI TI | Back-end | Dev Treinee | Oracle APEX & RPA</p>
+  <p>ENVOLTI TI | Back-end | Dev Trainee | Oracle APEX & RPA</p>
 
   <!-- Badges de contato -->
   <a href="mailto:gabrielhcunha2006@gmail.com">
