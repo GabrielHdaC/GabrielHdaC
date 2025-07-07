@@ -1,6 +1,6 @@
   <h1>Olá, eu sou Gabriel Heron 👋</h1>
   <p>ENVOLTI TI | Back-end | Dev Trainee | Oracle APEX & RPA</p>
-
+  <p>Sou desenvolvedor e recentemente encontrei a área com a qual realmente me identifico: administração de banco de dados (DBA). Atualmente, atuo com foco em Oracle, trabalhando com desenvolvimento em Oracle       APEX e administração de banco de dados. Além disso, também desenvolvo, como extra, alguns robôs de automação utilizando AutomationEdge.</p>
   <!-- Badges de contato -->
   <a href="mailto:gabrielhcunha2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-gabrielhcunha2006%40gmail.com-blue?style=flat" alt="Email"/>
