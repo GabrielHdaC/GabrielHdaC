@@ -32,10 +32,3 @@
 ## 🚀 Projetos Destaque  
 - [Lista de compras](https://github.com/GabrielHdaC/Lista-de-compras) — HTML | CSS | JS para gerenciar listas.  
 - [Validação de usuário](https://github.com/GabrielHdaC/validacao-usuario) — Java com testes de validação de usuários.  
-
----
-
-## 📊 Minhas Estatísticas  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielHdaC&show_icons=true&theme=default" alt="GitHub Stats"/>
-</div>
