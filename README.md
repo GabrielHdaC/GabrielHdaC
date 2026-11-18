@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Gabriel Heron 👋</h1>
-<p>Desenvolvedor Oracle APEX | PL/SQL e SQL | Automação de processos (RPA)</p>
-<p>Sou desenvolvedor com experiência em Oracle APEX, PL/SQL e SQL e em automação de processos (RPA) com AutomationEdge. Tenho interesse especial em banco de dados e administração (DBA). Curso Sistemas de Informação na FURB e estou aberto a oportunidades como desenvolvedor Java júnior, Oracle/APEX, suporte, banco de dados ou RPA, em Blumenau ou remoto.</p>
+<p>Desenvolvedor Júnior | Oracle APEX | PL/SQL e SQL | Automação de processos (RPA)</p>
+<p>Sou desenvolvedor júnior com experiência em Oracle APEX, PL/SQL e SQL e em automação de processos (RPA) com AutomationEdge. Tenho interesse especial em banco de dados e administração (DBA). Curso Sistemas de Informação na FURB e estou aberto a oportunidades como desenvolvedor júnior (Java, Oracle/APEX), suporte, banco de dados ou RPA, em Blumenau ou remoto.</p>
 <p>Aqui no meu GitHub você encontra alguns projetos que desenvolvi durante cursos que realizei, além de exemplos das linguagens e tecnologias com as quais já tive contato.</p>
 <!-- Badges de contato -->
 <a href="mailto:gabrielhcunha2006@gmail.com">
